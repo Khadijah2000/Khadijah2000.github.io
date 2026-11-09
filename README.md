@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/34573797/README.md)
 <h1 align="center">Khadijah Alasiri · Portfolio 🌿</h1>
 <h3 align="center">AI Engineer · Data Analyst · Digital Innovation</h3>
 
